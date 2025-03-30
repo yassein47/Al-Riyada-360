@@ -80,11 +80,14 @@
             <mxPoint x="630" y="200" as="sourcePoint" />
             <mxPoint x="520" y="130" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="165" />
-              <mxPoint x="380" y="170" />
-              <mxPoint x="410" y="170" />
+              <mxPoint x="410" y="165" />
               <mxPoint x="410" y="315" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AyurVCHeXvlqemPWMbA7-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AyurVCHeXvlqemPWMbA7-1">
+          <mxGeometry x="-0.0095" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AyurVCHeXvlqemPWMbA7-6" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1">
